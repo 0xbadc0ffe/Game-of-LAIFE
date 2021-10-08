@@ -5,7 +5,7 @@ LAIFE (Learned Artificial Intelligence Forecasting Evolution)
 ## `Project`
 
 The first aim of this project is to create a simple example to explain Convolutional Neural Networks.
-The other goals are settled to experiment with an entropy approach to the learning of this game's rules and similar ones. 
+The other goals are settled to experiment with an entropy approach to the AI learning of this game's rules and similar ones. 
 
 ## Step 1 [✓]
 
