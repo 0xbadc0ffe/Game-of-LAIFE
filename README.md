@@ -13,7 +13,7 @@ Teach to a CNN how to play Game of Life (GoL) in a supervised way. The AI plays 
 
 `LearnGOL.py`
 
-![](/media/AI-GOL.GIF)
+![](/media/AI-GOL-dash.GIF)
 
 ## Step 2    [/]
 
