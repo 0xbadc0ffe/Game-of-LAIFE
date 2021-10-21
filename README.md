@@ -19,7 +19,7 @@ Teach to a CNN how to play Game of Life (GoL) in a supervised way. The AI plays 
 
 Same as before but the teaching is made in an unsupervised way. Loss based on entropy and penalty for non-exploding and non-imploding behaviour.
 
-To check some entropy functions I tried give a look to
+To check some entropy functions try give a look at
 
 `test-entropy.py`
 
