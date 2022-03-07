@@ -1,5 +1,5 @@
 # Game-of-LAIFE
-LAIFE (Learned Artificial Intelligence Forecasting Evolution)
+LAIFE (Learning Artificial Intelligence Forecasting Evolution)
 
 
 ## `Project`
